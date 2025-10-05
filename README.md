@@ -2,6 +2,8 @@
 
 This project analyzes and clusters Netflix titles using machine learning techniques.
 
+Drive Link: https://drive.google.com/drive/folders/1RrwS2C86gsEW5mN9PWO2J0--ZS9xnR08
+
 ## 📊 Project Overview
 - Exploratory Data Analysis (EDA)
 - Feature Engineering and Text Preprocessing
